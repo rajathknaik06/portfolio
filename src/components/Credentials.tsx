@@ -7,7 +7,6 @@ import {
   Award,
   BookOpen,
   CheckCircle2,
-  Sparkles,
   Calendar,
   MapPin,
   Palette,
