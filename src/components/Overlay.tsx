@@ -8,7 +8,6 @@ import {
   Terminal,
   Code2,
   Compass,
-  Maximize2,
   Scan,
 } from "lucide-react";
 import SideHUD from "./SideHUD";

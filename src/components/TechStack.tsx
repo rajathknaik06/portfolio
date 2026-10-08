@@ -8,7 +8,6 @@ import {
   Database,
   Cpu,
   Terminal,
-  Award,
 } from "lucide-react";
 
 const CAPABILITIES = [

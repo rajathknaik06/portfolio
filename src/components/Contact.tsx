@@ -10,7 +10,7 @@ import {
   Sparkles,
   MapPin,
 } from "lucide-react";
-import { GithubIcon, TwitterXIcon, LinkedinIcon } from "./Icons";
+import { GithubIcon, LinkedinIcon } from "./Icons";
 
 export default function Contact() {
   const [copiedEmail, setCopiedEmail] = useState<boolean>(false);
